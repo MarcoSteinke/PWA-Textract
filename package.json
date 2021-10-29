@@ -1,0 +1,22 @@
+{
+  "name": "pwa-textract",
+  "version": "1.0.0",
+  "description": "Simple PWA which shall be deployed on android devices. Its main functionality will be after taking a screenshot this application will be listed in the \"send screenshot to\" menu and can extract URL's from a screenshot without saving this screenshot on your device!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoSteinke/PWA-Textract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoSteinke/PWA-Textract/issues"
+  },
+  "homepage": "https://github.com/MarcoSteinke/PWA-Textract#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.11.0"
+  }
+}
